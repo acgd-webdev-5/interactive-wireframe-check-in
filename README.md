@@ -1,6 +1,6 @@
 ---
 summary: 'A quick check-in to see how your interactive wireframes are progressing and give any feedback.'
-time: '5 minutes—in class'
+time: '5 minutes'
 deliverables: 'Working website'
 ---
 
