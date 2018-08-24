@@ -8,4 +8,4 @@ deliverables: 'Working website'
 
 ## Overview
 
-Time in class to complete the “Hand-in” component of the Interactive wireframe assignment.
+Time in class to complete the “Hand-in” component of the Interactive wireframe project.
