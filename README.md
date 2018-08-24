@@ -1,24 +1,11 @@
 ---
-summary: 'A quick check-in to see how your interactive wireframes are progressing and give any feedback & improvements.'
-time: '5 minutes'
+summary: 'Get critiques from at least 3 peers & the teacher and determine your grade.'
+time: '1 hour'
 deliverables: 'Working website'
 ---
 
-# Interactive wireframe check-in
+# Interactive wireframe critique
 
 ## Overview
 
-- Show the progress of your wireframes to the teacher in class.
-- There should be significant progress.
-
-*These things would count as a failure:*
-
-- Nothing started or only started in class
-- Only the files are created
-- Some HTML but no CSS
-
----
-
-## Hand in
-
-Nothing. Your wireframes will be checked during class time.
+Time in class to complete the “Hand-in” component of the Interactive wireframe assignment.
