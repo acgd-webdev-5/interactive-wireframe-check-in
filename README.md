@@ -4,8 +4,8 @@ time: '1 hour'
 deliverables: 'Working website'
 ---
 
-# Interactive wireframe critique
+# Pattern library critique
 
 ## Overview
 
-Time in class to complete the “Hand-in” component of the Interactive wireframe project.
+Time in class to complete the “Hand-in” component of the Pattern library project.
